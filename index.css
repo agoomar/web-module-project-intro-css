@@ -42,3 +42,130 @@ table {
 	border-spacing: 0;
 }
 
+
+header {
+    height: 100px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Chelsea Market', cursive;
+    font-size: 65px;
+    position: center;
+    text-indent: 8%;
+    margin: 40px;
+}
+
+h2 {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+    text-indent: 10%;
+    line-height: 1em;
+}
+
+.first-section {
+   color: white;
+   padding: 5%;
+   background-color: #DDB9A3;
+   margin-top: 100px;
+   font-size: 25px;
+   font-family: 'Roboto Mono', monospace;
+   text-align: center;
+   width: 80% 
+}
+
+.logo img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    float: left;
+    margin: 10px;
+}
+
+.one {
+    background-color:#FF764E;
+}
+
+.two {
+    background-color: #5ED3EB;
+}
+
+.three {
+    background-color: #FFCD69;
+}
+
+nav {
+  	color:white;
+	text-align:center;
+	margin-left: 100px;
+	margin-top: 40px;
+	padding: 10px;
+	font-size: 20px;
+	text-decoration: none;
+	width: 100%;
+	box-sizing:border-box;
+}
+
+nav a {
+    margin-right: 15%;
+    text-decoration: none;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    font-size: 15px;
+    padding: 15px 20px;
+    border-radius: 25px;
+    display:inline-block;
+}
+
+.logo2 img {
+    width: 15%;
+    display: block;
+    margin-left: 41%;
+    margin-right: 41%;
+}
+
+.text {
+    text-align: center;
+    font-size: 20px;
+    margin-left: 38%;
+    margin-right: 38%;
+    width: 20%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.logo3 img {
+    width: 15%;
+    display: block;
+    margin-left: 41%;
+    margin-right: 41%;
+}
+
+.text2 {
+    text-align: center;
+    font-size: 20px;
+    margin-left: 38%;
+    margin-right: 38%;
+    width: 25%;
+}
+
+.bold2 {
+    font-weight: bold;
+}
+
+.footer-img {
+    background-image: url("./assets/footer_img.jpg");
+    margin-top: 2%;
+    height: 300px;
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+div.container{
+    width:70%;
+    margin:0 auto;
+  }
